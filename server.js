@@ -8,5 +8,5 @@ app.listen(PORT,()=>{
 })
 app.get('/',(req,res)=>{
 
-    res.send("<h2>Welcome too Cyclic home page</h2>")
+    res.send("<h3>Welcome too Cyclic home page</h3>")
 })
